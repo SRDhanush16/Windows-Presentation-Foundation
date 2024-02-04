@@ -1,0 +1,16 @@
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\bin\Debug\scientific_calculator.exe.config
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\bin\Debug\scientific_calculator.exe
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\bin\Debug\scientific_calculator.pdb
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\scientific_calculator.csproj.AssemblyReference.cache
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\scientific_calculator.csproj.SuggestedBindingRedirects.cache
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\MainWindow.g.cs
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\App.g.cs
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\scientific_calculator_MarkupCompile.cache
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\scientific_calculator_MarkupCompile.lref
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\MainWindow.baml
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\scientific_calculator.g.resources
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\scientific_calculator.Properties.Resources.resources
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\scientific_calculator.csproj.GenerateResource.cache
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\scientific_calculator.csproj.CoreCompileInputs.cache
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\scientific_calculator.exe
+D:\Dhanush Folder\Prog_lang\dotNET_WPF\PROJECTS\SCIENTIFIC_CALCULATOR\scientific_calculator\scientific_calculator\obj\Debug\scientific_calculator.pdb
